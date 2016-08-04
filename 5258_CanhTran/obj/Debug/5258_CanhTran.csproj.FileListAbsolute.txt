@@ -1,0 +1,9 @@
+D:\C# 2016\SELENIUM\5258_CanhTran\5258_CanhTran\bin\Debug\5258_CanhTran.dll
+D:\C# 2016\SELENIUM\5258_CanhTran\5258_CanhTran\bin\Debug\5258_CanhTran.pdb
+D:\C# 2016\SELENIUM\5258_CanhTran\5258_CanhTran\bin\Debug\WebDriver.dll
+D:\C# 2016\SELENIUM\5258_CanhTran\5258_CanhTran\bin\Debug\WebDriver.Support.dll
+D:\C# 2016\SELENIUM\5258_CanhTran\5258_CanhTran\bin\Debug\WebDriver.xml
+D:\C# 2016\SELENIUM\5258_CanhTran\5258_CanhTran\bin\Debug\WebDriver.Support.xml
+D:\C# 2016\SELENIUM\5258_CanhTran\5258_CanhTran\obj\Debug\5258_CanhTran.csprojResolveAssemblyReference.cache
+D:\C# 2016\SELENIUM\5258_CanhTran\5258_CanhTran\obj\Debug\5258_CanhTran.dll
+D:\C# 2016\SELENIUM\5258_CanhTran\5258_CanhTran\obj\Debug\5258_CanhTran.pdb
